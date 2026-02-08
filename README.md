@@ -12,7 +12,7 @@ i'm asjad, and i build stuff that makes me go "wait, can i actually pull this of
 
 **CampusTrust** - threw this together for the NUST Olympiad Hackathon. it's basically an anonymous rumor verification system because apparently we needed blockchain energy but for campus gossip? uses bayesian inference, cryptographic anonymity, game theory... you know, the casual stuff. has voting, trust scores, bot detection, the works. 
 
-probably got some repos i started at 2am and forgot about. the graveyard of "i'll finish this later" is real.
+probably got some repos i started at 2am and forgot about. the graveyard of "i'll finish this later" is real
 
 got side projects in:
 - machine learning stuff (because who doesn't these days)
