@@ -1,4 +1,4 @@
-# hi 😃
+# hey
 
 i'm asjad, and i build stuff that makes me go "wait, can i actually pull this off?" (spoiler: sometimes)
 
